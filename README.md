@@ -53,7 +53,7 @@ This project was made by Huynh Thien Bao, Le Minh Hung and Le Quy Phuong. If the
 Clone the project
 
 ```bash
-  git clone https://github.com/qifuong/EbookStore
+  git clone https://github.com/qifuong/EbookApp
 ```
 
 Open project in the vs code
