@@ -1,6 +1,6 @@
 
 # 📙 E Book App In Flutter
-This project was made by Truong Thien Bao, Le Minh Hung and Le Quy Phuong. If there are any errors during the implementation of the project, I hope you will understand and forgive me. Thank you everyone.
+This project was made by Huynh Thien Bao, Le Minh Hung and Le Quy Phuong. If there are any errors during the implementation of the project, I hope you will understand and forgive me. Thank you everyone.
 
 
 
