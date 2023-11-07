@@ -54,7 +54,7 @@ class BookDetails extends StatelessWidget {
                     children: [
                       Flexible(
                         child: Text(
-                            "Đồ án này thực hiện bởi Truong Thien Bao, Le Minh Hung Và Le Quy Phuong, Nếu có bất kỳ sai sót trong quá trình thực hiện của đồ án, Mong quý thầy cô thông cảm vào bỏ qua, Cảm ơn mọi người",
+                            "Đồ án này thực hiện bởi Huynh Thien Bao, Le Minh Hung Và Le Quy Phuong, Nếu có bất kỳ sai sót trong quá trình thực hiện của đồ án, Mong quý thầy cô thông cảm vào bỏ qua, Cảm ơn mọi người",
                             style: Theme.of(context).textTheme.labelMedium),
                       ),
                     ],
@@ -70,7 +70,7 @@ class BookDetails extends StatelessWidget {
                     children: [
                       Flexible(
                         child: Text(
-                            "This project was made by Truong Thien Bao, Le Minh Hung and Le Quy Phuong. If there are any errors during the implementation of the project, I hope you will understand and forgive me. Thank you everyone.",
+                            "This project was made by Huynh Thien Bao, Le Minh Hung and Le Quy Phuong. If there are any errors during the implementation of the project, I hope you will understand and forgive me. Thank you everyone.",
                             style: Theme.of(context).textTheme.labelMedium),
                       ),
                     ],
