@@ -1,9 +1,6 @@
 
 # 📙 E Book App In Flutter
-This app is make for reading online e book i have made this app in flutter if you want to see all Tutorial of This App in video formate follow my.
-youtube channel ❤️ 
-<a href="https://www.github.com/MrNitishroy](https://mrnitishroy.github.io/)https://mrnitishroy.github.io](https://www.youtube.com/@flutterhero/videos" target="blank">FlutterHero</a>
-
+This project was made by Truong Thien Bao, Le Minh Hung and Le Quy Phuong. If there are any errors during the implementation of the project, I hope you will understand and forgive me. Thank you everyone.
 
 
 
