@@ -75,10 +75,10 @@ run app
 ## Authors
 
 ```Nhóm 5
-<a href="https://github.com/qifuong/" target="blank">Nhóm 5 </a>
+Github nhóm: https://github.com/qifuong/
 ```
 Figma
 ```
- <a href="https://www.figma.com/file/kOBwYviQnDMO9xKYp7pB6J/Untitled?type=design&node-id=1-117&mode=design&t=qwidU0OABImhfVAT-0" target="blank">Figma Nhóm 5 </a>
+ Link Figma: https://www.figma.com/file/kOBwYviQnDMO9xKYp7pB6J/Untitled?type=design&node-id=1-117&mode=design&t=qwidU0OABImhfVAT-0
 ```
 
