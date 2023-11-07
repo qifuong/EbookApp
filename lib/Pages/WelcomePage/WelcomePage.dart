@@ -29,7 +29,7 @@ class WelcomePage extends StatelessWidget {
                     ),
                     const SizedBox(height: 60),
                     Text(
-                      "E - Book Store",
+                      "E - Book APP",
                       style:
                           Theme.of(context).textTheme.headlineLarge?.copyWith(
                                 color: Theme.of(context).colorScheme.background,
