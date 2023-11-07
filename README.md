@@ -1,6 +1,9 @@
 
 # 📙 E Book App In Flutter
-This project was made by Huynh Thien Bao, Le Minh Hung and Le Quy Phuong. If there are any errors during the implementation of the project, I hope you will understand and forgive me. Thank you everyone.
+This app is make for reading online e book i have made this app in flutter if you want to see all Tutorial of This App in video formate follow my.
+youtube channel ❤️ 
+<a href="https://www.github.com/MrNitishroy](https://mrnitishroy.github.io/)https://mrnitishroy.github.io](https://www.youtube.com/@flutterhero/videos" target="blank">FlutterHero</a>
+
 
 
 
@@ -73,12 +76,6 @@ run app
 
 
 ## Authors
-Nhóm 5
-```
-https://github.com/qifuong/
-```
-Link Figma
-```
-https://www.figma.com/file/kOBwYviQnDMO9xKYp7pB6J/Untitled?type=design&node-id=1-117&mode=design&t=qwidU0OABImhfVAT-0
-```
+
+<a href="https://www.github.com/MrNitishroy](https://mrnitishroy.github.io/)https://mrnitishroy.github.io/" target="blank">Nitish Roy </a>
 
