@@ -74,5 +74,5 @@ run app
 
 ## Authors
 
-<a href="https://www.github.com/MrNitishroy](https://mrnitishroy.github.io/)https://mrnitishroy.github.io/" target="blank">Nitish Roy </a>
+<a href="https://github.com/qifuong/" target="blank">Nhóm 5 </a>
 
