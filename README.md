@@ -75,7 +75,7 @@ run app
 ## Authors
 Nhóm 5
 ```
-Github nhóm: https://github.com/qifuong/
+https://github.com/qifuong/
 ```
 Link Figma
 ```
